@@ -1,6 +1,6 @@
 # Tuberculosis Detection
 
-### A Deep Learning model for detection Tuberculosis in X-RAY images. 
+### A Deep Learning model for detecting Tuberculosis in X-RAY images. 
 
 ## Results:
 #### Accuracy 99.34 %
