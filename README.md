@@ -1,6 +1,8 @@
 # Tuberculosis Detection
 
 ### A Deep Learning model for detecting Tuberculosis in X-RAY images. 
+### Dataset can be found here: https://ieee-dataport.org/documents/tuberculosis-tb-chest-x-ray-database
+
 
 ## Results:
 #### Accuracy 99.34 %
